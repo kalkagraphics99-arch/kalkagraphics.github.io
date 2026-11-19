@@ -1,0 +1,8 @@
+{
+  "name": "Kalka Graphics",
+  "description": "Kalka Graphics — Your Creative Printing Partner in Delhi, India. Design • Print • Deliver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
